@@ -1,3 +1,10 @@
+# Project for Code Review Example
+
+This is a public project forked from [bradtraversy/laragigs](https://github.com/bradtraversy/laragigs) and used as the source for
+an example code review on MoreBetterFaster.io.
+
+---
+
 # LaraGigs app
 
 An app for listing Laravel gigs/jobs. This project is from my YouTube "[Laravel From Scratch 2022](https://www.youtube.com/watch?v=MYyJ4PuL4pY)" course.
